@@ -1,0 +1,16 @@
+{
+  "name": "tutosync",
+  "version": "1.0.0",
+  "description": "A Complete backend API including various types of userData's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "Backend",
+    "TutoSync"
+  ],
+  "author": "Antas Raj Pathak",
+  "license": "ISC"
+}
