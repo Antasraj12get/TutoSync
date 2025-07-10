@@ -1,0 +1,6 @@
+1. Create a npm project (npm init -y)
+2. Create Src & Readme.md 
+3. Create gitIgnore and install Prettier 
+4. Put data inside prettierignore and prettierrc and gitignore 
+5. Make .env files
+6. Define MVC architecure for better approach with utills 
