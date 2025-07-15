@@ -3,6 +3,8 @@ import connectDB from "./db/Connection.js";
 import express from "express";
 
 const app = express();
+import dotenv from "dotenv";
+dotenv.config();
 
 
 connectDB()
